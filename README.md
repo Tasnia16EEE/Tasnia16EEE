@@ -1,6 +1,8 @@
 ## Hi there, I'm Tasnia Sultana 👋
 
-🚀 About Me I'm a Machine Learning Engineer based in the USA. I'm passionate about building scalable and responsible AI solutions for edge devices. I love to learn new things and I'm always looking for new challenges.
+🚀 About Me 
+
+I'm a Machine Learning Engineer based in the USA. I'm passionate about building scalable and responsible AI solutions for edge devices. I love to learn new things and I'm always looking for new challenges.
 
 😎 Pursuing Master’s in Computer Science & Systems
 
