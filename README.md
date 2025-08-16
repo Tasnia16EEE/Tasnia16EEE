@@ -1,12 +1,12 @@
 ## Hi there, I'm Tasnia Sultana 👋
 
-🚀 About Me
+### 🚀 About Me
 
 I'm a Machine Learning Engineer based in the USA, passionate about building scalable and responsible AI solutions for edge devices. I love learning new things and am always looking for new challenges.
 
-😎 Pursuing Master’s in Computer Science & Systems
+😎 Pursuing a Master’s in Computer Science & Systems, conducting research on small multimodal large language model deployment for the medical domain, with a focus on edge devices.
 
-✔️ Completed Bachelor’s in Electrical & Electronic Engineering
+✔️ Completed a Bachelor’s in Electrical & Electronic Engineering, with hands-on experience in semiconductor device fabrication, computer architecture, and micro-electro-mechanical systems (MEMS).
 
 🔭 I’m currently working on on-device ML, responsible and trustworthy AI.
 
@@ -22,7 +22,9 @@ I'm a Machine Learning Engineer based in the USA, passionate about building scal
 
 ⚡ Fun fact: I know both Hardware and Software 😁
 
-🛠️ Software Skills
+
+### 🛠️ Software Skills
+
 Here are some of the technologies I’m proficient in:
 
 Languages: Python, SQL, R, JavaScript, Java, C++
@@ -39,7 +41,8 @@ Tools: Apache Airflow, Hadoop, Git, GitHub, VS Code, JupyterLab, Google Colab, P
 
 Frontend/Backend: React, Angular, TypeScript, Node.js, Flask
 
-🛠️ Electrical Skills
+
+### 🛠️ Electrical Skills
 
 Languages: Verilog, Assembly Language, MATLAB, Arduino, Raspberry Pi
 
