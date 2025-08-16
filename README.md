@@ -20,7 +20,7 @@ I'm a Machine Learning Engineer based in the USA, passionate about building scal
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I know both Hardware and Software 😁
+⚡ Fun fact: My friends and family say I have “golden retriever energy.” 😁
 
 
 ### 🛠️ Software Skills
